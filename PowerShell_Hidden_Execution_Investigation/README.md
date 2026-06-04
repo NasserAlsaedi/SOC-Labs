@@ -32,3 +32,7 @@ The command was launched with PowerShell options (-nop and -w hidden) and execut
 - Process Creation Monitoring
 - Parent-Child Process Analysis
 - Incident Investigation
+
+## MITRE ATT&CK
+
+- T1059.001 - PowerShell
