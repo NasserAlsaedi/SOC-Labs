@@ -31,3 +31,7 @@ Using Splunk Enterprise, I investigated Windows Security Event ID 4732 and verif
 - Splunk Investigation
 - Event ID Analysis
 - Incident Investigation
+
+## MITRE ATT&CK
+
+- T1098 - Account Manipulation
