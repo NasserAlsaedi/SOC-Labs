@@ -45,7 +45,6 @@ This repository contains SOC analyst home lab projects and security investigatio
 - Reviewed phishing indicators
 
 ## Lab Environment
-- TryHackMe SOC Level 1
 - Windows Server
 - Windows 10
 - Kali Linux
