@@ -30,5 +30,6 @@ Using Splunk Enterprise, I investigated multiple failed login attempts and analy
 - RDP Brute Force Detection
 - Incident Investigation
 
-MITRE ATT&CK:
+## MITRE ATT&CK
+
 - T1110 - Brute Force
