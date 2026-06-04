@@ -30,3 +30,7 @@ Using Splunk Enterprise, I investigated Windows Security Event ID 4720 and confi
 - Event ID Analysis
 - Security Monitoring
 - Incident Investigation
+
+## MITRE ATT&CK
+
+- T1136 - Create Account
