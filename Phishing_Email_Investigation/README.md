@@ -33,3 +33,9 @@ The investigation revealed a suspicious email attachment that led to the creatio
 - PowerShell Analysis
 - DNS Exfiltration Detection
 - Incident Reporting
+
+## MITRE ATT&CK
+
+- T1566 - Phishing
+- T1059.001 - PowerShell
+- T1048 - Exfiltration Over Alternative Protocol
