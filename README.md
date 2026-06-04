@@ -14,6 +14,17 @@ This repository contains SOC analyst home lab projects and security investigatio
 - URLScan
 - TryHackMe
 
+## Skills
+
+- Alert Triage
+- Incident Investigation
+- Threat Detection
+- Security Monitoring
+- Phishing Analysis
+- Windows Log Analysis
+- SIEM Fundamentals
+
+
 ## Investigations
 
 ### 1. RDP Brute Force Investigation
