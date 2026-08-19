@@ -31,7 +31,7 @@ The command was launched with PowerShell options (-nop and -w hidden) and execut
 - Splunk Investigation
 - Process Creation Monitoring
 - Parent-Child Process Analysis
-- Incident Investigation
+- Alert Investigation
 
 ## MITRE ATT&CK
 
