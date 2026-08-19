@@ -25,7 +25,7 @@ Using Splunk Enterprise, I investigated Windows Security Event ID 4732 and verif
 
 ## Skills Demonstrated
 
-- Privilege Escalation Detection
+- Administrative Group Membership Monitoring
 - Windows Security Log Analysis
 - Security Group Monitoring
 - Splunk Investigation
