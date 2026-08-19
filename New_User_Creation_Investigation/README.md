@@ -20,7 +20,7 @@ Using Splunk Enterprise, I investigated Windows Security Event ID 4720 and confi
 - Created account: support123
 - Account created by: Administrator
 - User management activity successfully detected in Splunk
-- Verdict: True Positive
+- Detection Result: Successfully Detected (Simulated Activity)
 
 ## Skills Demonstrated
 
