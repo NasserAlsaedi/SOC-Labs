@@ -2,9 +2,7 @@
 
 ## Summary
 
-In this lab, I investigated a phishing email campaign that resulted in malicious activity on a Windows endpoint.
-
-The investigation revealed a suspicious email attachment that led to the creation of a PowerShell script, access to a network share, and DNS-based data exfiltration activity using nslookup.
+This investigation was completed as part of a simulated SOC scenario using the TryHackMe SOC Simulator. I analyzed and correlated multiple security alerts involving a phishing email, PowerShell activity, network share access, and DNS-based exfiltration to determine the scope of the incident and reach a True Positive verdict.
 
 ## Tools Used
 
