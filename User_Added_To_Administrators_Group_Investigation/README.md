@@ -2,7 +2,7 @@
 
 ## Summary
 
-In this lab, I simulated a privilege escalation activity by adding a local user account to the Administrators group on a Windows Server 2019 system.
+In this lab, I simulated a suspicious account privilege change by adding a local user account to the Administrators group on a Windows Server 2019 system.
 
 Using Splunk Enterprise, I investigated Windows Security Event ID 4732 and verified that the account "support123" was successfully added to the local Administrators group by the Administrator account.
 
@@ -20,7 +20,7 @@ Using Splunk Enterprise, I investigated Windows Security Event ID 4732 and verif
 - Added user: support123
 - Target group: Administrators
 - Action performed by: Administrator
-- Privilege escalation activity successfully detected in Splunk
+- Administrative group membership change successfully detected in Splunk
 - Verdict: True Positive
 
 ## Skills Demonstrated
@@ -30,7 +30,7 @@ Using Splunk Enterprise, I investigated Windows Security Event ID 4732 and verif
 - Security Group Monitoring
 - Splunk Investigation
 - Event ID Analysis
-- Incident Investigation
+- Alert Investigation
 
 ## MITRE ATT&CK
 
