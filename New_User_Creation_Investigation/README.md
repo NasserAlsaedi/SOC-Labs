@@ -29,7 +29,7 @@ Using Splunk Enterprise, I investigated Windows Security Event ID 4720 and confi
 - Splunk Investigation
 - Event ID Analysis
 - Security Monitoring
-- Incident Investigation
+- Alert Investigation
 
 ## MITRE ATT&CK
 
