@@ -22,7 +22,7 @@ The command was launched with PowerShell options (-nop and -w hidden) and execut
 - Parent process: powershell.exe
 - Child process: net.exe
 - Activity successfully detected in Splunk
-- Verdict: True Positive
+- Detection Result: True Positive (Simulated Suspicious Activity)
 
 ## Skills Demonstrated
 
