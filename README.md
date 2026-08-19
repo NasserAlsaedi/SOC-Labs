@@ -56,8 +56,7 @@ This repository contains SOC analyst home lab projects and security investigatio
 - Reviewed phishing indicators
 
 ## Lab Environment
-- Windows Server
-- Windows 10
+- Windows Server 2019
 - Kali Linux
 - Splunk Enterprise
 - VirtualBox.
