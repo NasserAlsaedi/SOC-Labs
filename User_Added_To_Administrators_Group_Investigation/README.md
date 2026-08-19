@@ -21,7 +21,7 @@ Using Splunk Enterprise, I investigated Windows Security Event ID 4732 and verif
 - Target group: Administrators
 - Action performed by: Administrator
 - Administrative group membership change successfully detected in Splunk
-- Verdict: True Positive
+- Detection Result: Successfully Detected (Simulated Activity)
 
 ## Skills Demonstrated
 
