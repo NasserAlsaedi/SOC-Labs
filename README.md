@@ -47,12 +47,12 @@ This repository contains SOC analyst home lab projects and security investigatio
 ### 4. User Added to Administrators Group Investigation
 
 - Investigated Event ID 4732
-- Reviewed privilege escalation activity
+- Reviewed administrative group membership change
 
 ### 5. Phishing Email Investigation
 
 - Investigated phishing email alerts
-- Analyzed malicious URLs
+- Correlated PowerShell, network share, and DNS activity
 - Reviewed phishing indicators
 
 ## Lab Environment
