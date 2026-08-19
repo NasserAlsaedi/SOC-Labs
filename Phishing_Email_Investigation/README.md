@@ -15,7 +15,7 @@ This investigation was completed as part of a simulated SOC scenario using the T
 ## Findings
 
 - Suspicious email attachment identified
-- Malicious archive file detected
+- Suspicious archive file identified
 - PowerShell script (PowerView.ps1) created in Downloads folder
 - Network share accessed using net.exe
 - DNS exfiltration activity detected using nslookup.exe
